@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fc707dfc-1ceb-4381-9f1d-05373f092fa9/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/dejos-my-first-azure-deployed-app",
+    "appService.deploySubpath": "."
+}
